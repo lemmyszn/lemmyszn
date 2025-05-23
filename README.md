@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cayleb Mutua
 - 👀 I’m interested in building efficient solutions and learning new technologies.
-- 🌱 I’m currently learning software engineering.
+- 🌱 I’m currently learning software engineering at ALX.
 - 💞️ I’m looking to collaborate on open-source projects and innovative solutions.
 - 📫 How to reach me: Email- mutuacayleb@gmail.com
 - 😄 Pronouns: Him
